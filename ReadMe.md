@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are available at [https://anuraghiware01.github.io/Anurag_DataAnalyst_Portfolio/index.html](https://anuraghiware01.github.io/Anurag_DataAnalyst_Portfolio/index.html)
 
 - 💬 Ask me about **Data Analysis & Visualizations.**
-
+ 
 - 📫 How to reach me **anuraghivare555@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/AnuragHiware01/Data_Analysis_Resume_AnuragHiware](https://github.com/AnuragHiware01/Data_Analysis_Resume_AnuragHiware)
