@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Analysis and AI/ML methodologies.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AnuragHiware01/MyPortfolio](https://github.com/AnuragHiware01/MyPortfolio](https://anuraghiware01.github.io/Anurag_DataAnalyst_Portfolio/index.html))
+- 👨‍💻 All of my projects are available at [https://anuraghiware01.github.io/Anurag_DataAnalyst_Portfolio/index.html](https://anuraghiware01.github.io/Anurag_DataAnalyst_Portfolio/index.html)
 
 - 💬 Ask me about **Data Analysis & Visualizations.**
 
